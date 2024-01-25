@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="nTaller1_Gasolinera">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/classes/test/nTaller1_Gasolinera" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/tests" />
+    </SOURCES>
+  </library>
+</component>
